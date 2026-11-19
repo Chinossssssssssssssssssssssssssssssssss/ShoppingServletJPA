@@ -1,0 +1,4 @@
+/* Bootstrap lo layout chung; chỉ giữ vài tinh chỉnh nhỏ */
+.thumb { width: 100%; height: 110px; object-fit: cover; background: #e9ecef; display: block; }
+.card-img-top.thumb { border-radius: .375rem .375rem 0 0; }
+video { max-width: 100%; background: #000; }

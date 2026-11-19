@@ -1,0 +1,7 @@
+<sitemesh>
+  <mapping path="/*" decorator="main.jsp"/>
+
+  <mapping path="/assets/*" exclude="true"/>
+  <mapping path="/image" exclude="true"/>
+  <mapping path="/media" exclude="true"/>
+</sitemesh>
